@@ -1,0 +1,4 @@
+name : Jan
+age :21
+occ :intern at DS systems
+per annum : 1,00,000 /-
